@@ -1,0 +1,76 @@
+C:\Users\Pedro\Documents\Development\MvvmExample\MvvmExample\bin\Debug\MvvmExample.exe
+C:\Users\Pedro\Documents\Development\MvvmExample\MvvmExample\bin\Debug\MvvmExample.pdb
+C:\Users\Pedro\Documents\Development\MvvmExample\MvvmExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\Development\MvvmExample\MvvmExample\obj\x86\Debug\View\Window3.baml
+C:\Users\Pedro\Documents\Development\MvvmExample\MvvmExample\obj\x86\Debug\View\Window4.baml
+C:\Users\Pedro\Documents\Development\MvvmExample\MvvmExample\obj\x86\Debug\App.baml
+C:\Users\Pedro\Documents\Development\MvvmExample\MvvmExample\obj\x86\Debug\View\MainWindow.g.cs
+C:\Users\Pedro\Documents\Development\MvvmExample\MvvmExample\obj\x86\Debug\View\Window1.g.cs
+C:\Users\Pedro\Documents\Development\MvvmExample\MvvmExample\obj\x86\Debug\View\Window2.g.cs
+C:\Users\Pedro\Documents\Development\MvvmExample\MvvmExample\obj\x86\Debug\View\Window3.g.cs
+C:\Users\Pedro\Documents\Development\MvvmExample\MvvmExample\obj\x86\Debug\View\Window4.g.cs
+C:\Users\Pedro\Documents\Development\MvvmExample\MvvmExample\obj\x86\Debug\View\Window5.g.cs
+C:\Users\Pedro\Documents\Development\MvvmExample\MvvmExample\obj\x86\Debug\App.g.cs
+C:\Users\Pedro\Documents\Development\MvvmExample\MvvmExample\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Pedro\Documents\Development\MvvmExample\MvvmExample\obj\x86\Debug\MvvmExample_MarkupCompile.cache
+C:\Users\Pedro\Documents\Development\MvvmExample\MvvmExample\obj\x86\Debug\MvvmExample_MarkupCompile.lref
+C:\Users\Pedro\Documents\Development\MvvmExample\MvvmExample\obj\x86\Debug\View\MainWindow.baml
+C:\Users\Pedro\Documents\Development\MvvmExample\MvvmExample\obj\x86\Debug\View\Window1.baml
+C:\Users\Pedro\Documents\Development\MvvmExample\MvvmExample\obj\x86\Debug\View\Window2.baml
+C:\Users\Pedro\Documents\Development\MvvmExample\MvvmExample\obj\x86\Debug\View\Window5.baml
+C:\Users\Pedro\Documents\Development\MvvmExample\MvvmExample\obj\x86\Debug\MvvmExample.g.resources
+C:\Users\Pedro\Documents\Development\MvvmExample\MvvmExample\obj\x86\Debug\MvvmExample.Properties.Resources.resources
+C:\Users\Pedro\Documents\Development\MvvmExample\MvvmExample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Pedro\Documents\Development\MvvmExample\MvvmExample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Pedro\Documents\Development\MvvmExample\MvvmExample\obj\x86\Debug\MvvmExample.exe
+C:\Users\Pedro\Documents\Development\MvvmExample\MvvmExample\obj\x86\Debug\MvvmExample.pdb
+C:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\MvvmExample.exe
+C:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\MvvmExample.pdb
+C:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\bin\Debug\MvvmExample.exe
+C:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\bin\Debug\MvvmExample.pdb
+C:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\MvvmExample.csprojResolveAssemblyReference.cache
+C:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\View\Window3.baml
+C:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\View\Window4.baml
+C:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\App.baml
+C:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\View\MainWindow.g.cs
+C:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\View\Window1.g.cs
+C:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\View\Window2.g.cs
+C:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\View\Window3.g.cs
+C:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\View\Window4.g.cs
+C:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\View\Window5.g.cs
+C:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\App.g.cs
+C:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\MvvmExample_MarkupCompile.cache
+C:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\MvvmExample_MarkupCompile.lref
+C:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\View\MainWindow.baml
+C:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\View\Window1.baml
+C:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\View\Window2.baml
+C:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\View\Window5.baml
+C:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\MvvmExample.g.resources
+C:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\MvvmExample.Properties.Resources.resources
+C:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\MvvmExample.csproj.GenerateResource.Cache
+D:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\MvvmExample.exe
+D:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\MvvmExample.pdb
+D:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\bin\Debug\MvvmExample.exe
+D:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\bin\Debug\MvvmExample.pdb
+D:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\MvvmExample.csprojResolveAssemblyReference.cache
+D:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\View\Window3.baml
+D:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\View\Window4.baml
+D:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\App.baml
+D:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\View\MainWindow.g.cs
+D:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\View\Window1.g.cs
+D:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\View\Window2.g.cs
+D:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\View\Window3.g.cs
+D:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\View\Window4.g.cs
+D:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\View\Window5.g.cs
+D:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\App.g.cs
+D:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\MvvmExample_MarkupCompile.cache
+D:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\MvvmExample_MarkupCompile.lref
+D:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\View\MainWindow.baml
+D:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\View\Window1.baml
+D:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\View\Window2.baml
+D:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\View\Window5.baml
+D:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\MvvmExample.g.resources
+D:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\MvvmExample.Properties.Resources.resources
+D:\Users\RichardJesus\Documents\Visual Studio 2015\Samples\Easy MVVM Example1\MvvmExample\obj\x86\Debug\MvvmExample.csproj.GenerateResource.Cache
